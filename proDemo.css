@@ -1,0 +1,9 @@
+h1{text-align: center;text-transform:uppercase;color:white;}
+p{text-align-last: center;text-transform:capitalize;color:white;}
+.hero{
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+transform:translate(-50%,-50%);
+}
